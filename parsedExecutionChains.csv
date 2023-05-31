@@ -1,0 +1,274 @@
+Execution Chain
+.url > .zip > .msi > .dll
+.url > .xls > .dll
+.url > .url > .zip > .dll > .dll
+.url > .msi > .dll
+.url > .xls > .dll
+.xls > .dll
+.xls > .dll
+.url > .url > .zip > .xlsb > .dll > .dll
+.docx > .dll
+.url > .url > .url > .xlsb > .xlsb > .dll > .dll > .dll
+.zip > .dll > .zip > .dll
+.url > .url > .url > .url > .url > .url > .xls > .dll
+.xls > .dll > .dll > .dll > .dll > .dll > .dll
+.url > .url > .xls > .dll
+.msi > .dll
+.url > .url > .zip > .dll
+.xls > .dll
+.url > .url > .zip > .dll
+.xls > .xls > .xls > .xls > .dll
+.url > .msi > .dll
+.url > .zip > .dll
+.url > .url > .zip > .dll > .url > .url > .zip > .dll
+.url > .url > .url > .zip > .dll
+.url > .zip > .xls > .dll
+.url > .xls > .dll
+.url > .zip > .xls > .dll
+.url > .zip > .xls > .dll
+.url > .url > .url > .xls > .xls > .dll
+.url > .url > .zip > .dll > .dll > .zip > .dll
+.url > .zip > .dll
+.url > .zip > .dll > .dll
+.url > .zip > .dll
+.url > .url > .url > .zip > .dll > .dll
+.url > .zip > .dll
+.xls > .dll > .dll > .dll
+.url > .url > .url > .url > .xls > .dll > .dll > .dll
+.url > .zip > .dll
+.xls > .dll > .dll
+.zip > .dll
+.zip > .xls > .dll
+.xls > .dll
+.url > .url > .zip > .zip > .dll > .dll
+.zip > .xls > .dll > .dll > .dll
+.url > .url > .url > .url > .url > .zip > .xls > .dll > .dll > .dll
+.url > .url > .zip > .dll
+.html > .zip > .img > .dll
+.zip > .wsf > .dll
+.html > .zip > .img > .dll
+.pdf > .zip > .img > .dll
+.pdf > .zip > .img > .dll
+.url > .zip > .iso > .dll
+.url > .zip > .iso > .dll
+.url > .zip > .iso > .dll
+.url > .zip > .iso > .dll
+.url > .zip > .iso > .dll > .url > .zip > .iso > .dll
+.url > .zip > .iso > .dll
+.html > .iso > .dll
+.url > .zip > .iso > .dll
+.url > .zip > .zip > .iso > .dll
+.url > .zip > .iso > .dll
+.url > .zip > .zip > .iso > .dll
+.url > .zip > .zip > .iso > .dll
+.url > .zip > .zip > .iso > .dll
+.url > .zip > .img > .dll
+.url > .zip > .zip > .iso > .dll
+.url > .zip > .zip > .img > .vbs > .dll
+.url > .url > .url > .url > .url > .url > .url > .url > .url > .url > .url > .url > .zip > .zip > .img > .dll
+.url > .zip > .zip > .img > .dll
+.url > .zip > .zip > .img > .dll
+.url > .zip > .iso > .dll
+.url > .zip > .iso > .ps1 > .dll
+.url > .zip > .vhd > .dll
+.url > .zip > .vhd > .dll
+.url > .zip > .vhd > .dll
+.url > .zip > .zip > .iso > .dll
+.url > .zip > .img > .dll
+.url > .zip > .img > .dll
+.url > .zip > .img > .exe > .dll > .zip > .iso > .dll
+.url > .zip > .iso > .dll
+.url > .zip > .iso > .dll
+.url > .zip > .iso > .dll
+.url > .zip > .iso > .dll
+.url > .zip > .one > .hta > .dll
+.url > .zip > .one > .dll > .one > .dll
+.one > .hta > .dll
+.url > .zip > .one > .hta > .dll
+.one > .cmd > .dll
+.one > .bat > .dll
+.one > .bat > .dll
+.one > .dll
+.one > .hta > .dll
+.one > .chm > .dll
+.one > .wsf > .dll > .pdf > .zip > .dll
+.pdf > .url > .dll > .one > .wsf > .dll
+.html > .zip > .img > .dll
+.html > .zip > .img > .dll
+.url > .dll
+.pdf > .url > .url > .dll
+.zip > .dll > .html > .dll
+.dll
+.zip > .dll
+.dll
+.html > .dll > .dll
+.html > .dll
+.dll > .html > .dll > .dll
+.html > .dll
+.zip > .dll
+.dll
+.html > .dll
+.html > .dll
+.wsf > .dll
+.pdf > .zip > .wsf > .dll
+.pdf > .wsf > .dll
+.pdf > .zip > .wsf > .dll
+.pdf > .zip > .wsf > .dll
+.zip > .wsf > .dll
+.one > .chm > .dll > .pdf > .zip > .hta > .dll
+.pdf > .zip > .hta > .dll
+.one > .msi > .wsf > .ps1 > .dll
+.pdf > .zip > .wsf > .dll
+.pdf > .zip > .wsf > .dll
+.pdf > .zip > .dll
+.pdf > .zip > .dll
+.url > .zip > .dll
+.url > .dll
+.url > .dll > .dll
+.url > .dll > .zip > .dll
+.url > .dll
+.url > .dll
+.url > .dll
+.pdf > .dll > .dll > .dll
+.msi > .dll
+.url > .dll
+.url > .dll > .dll
+.url > .zip > .dll
+.url > .zip > .iso > .dll
+.url > .zip > .xlsb > .dll
+.html > .zip > .iso > .dll
+.html > .zip > .dll
+.html > .zip > .dll
+.url > .zip > .iso > .dll
+.url > .zip > .iso > .dll
+.html > .zip > .dll
+.url > .zip > .iso > .dll
+.zip > .dll
+.zip > .dll
+.zip > .iso > .dll
+.url > .zip > .iso > .dll > .html > .zip > .iso > .dll
+.iso > .dll
+.url > .zip > .iso > .dll
+.url > .zip > .iso > .dll
+.url > .zip > .iso > .dll
+.url > .zip > .iso > .dll
+.url > .zip > .iso > .dll > .url > .zip > .iso > .dll
+.url > .zip > .iso > .dll > .url > .zip > .iso > .dll
+.zip > .xls > .dll > .dll
+.xls > .dll
+.xls > .dll
+.xls > .dll
+.xls > .dll
+.xls > .dll > .xls > .dll
+.xls > .dll > .xls > .dll > .xls > .dll > .xls > .dll
+.xls > .dll > .xls > .dll > .xls > .dll
+.xls > .xls
+.xls > .dll
+.xls > .dll > .dll
+.xls > .xls > .xls
+.xls > .dll > .dll > .dll > .dll > .dll
+.xls > .xls > .dll > .dll > .dll > .dll
+.zip > .xls > .dll
+.xls > .dll
+.xls > .dll
+.xls > .dll > .dll
+.xls > .dll
+.xls > .dll
+.xls > .dll > .dll > .dll
+.zip > .xls > .dll
+.xls > .dll > .dll > .dll
+.zip > .xls > .dll
+.zip > .xls > .dll > .dll > .dll
+.url > .zip > .xls > .dll > .dll
+.url > .zip > .xls > .dll > .dll
+.url > .url > .url > .url > .url > .url > .zip > .xls > .dll > .dll > .dll
+.url > .url > .url > .url > .xls > .dll > .dll > .dll
+.url > .url > .url > .url > .zip > .xls > .dll > .dll > .dll > .dll > .dll
+.url > .url > .url > .zip > .xls > .dll
+.url > .zip > .xls > .dll
+.url > .zip > .xls > .dll
+.html > .zip > .img > .doc > .lnk > .dll
+.html > .zip > .img > .lnk > .dll
+.html > .zip > .dll > .dll
+.html > .zip > .dll
+.html > .zip > .dll > .dll
+.html > .zip > .dll > .dll
+.html > .zip > .dll
+.html > .zip > .dll
+.html > .zip > .dll > .dll
+.html > .zip > .dll
+.html > .zip > .dll
+.html > .zip > .dll
+.html > .html > .zip > .iso > .dll > .dll > .dll > .dll
+.html > .iso > .dll
+.html > .iso > .dll > .dll
+.html > .iso > .dll
+.html > .zip > .iso > .dll
+.html > .zip > .iso > .dll
+.html > .zip > .iso > .dll
+.html > .zip > .iso > .dll
+.html > .zip > .iso > .dll
+.html > .iso > .dll
+.html > .zip > .iso > .dll
+.html > .zip > .iso > .dll
+.html > .zip > .iso > .dll
+.html > .zip > .iso > .dll
+.html > .dll
+.html > .iso > .dll
+.html > .iso > .dll
+.html > .zip > .iso > .dll
+.html > .zip > .iso > .dll
+.html > .zip > .iso > .dll
+.html > .zip > .iso > .dll
+.html > .zip > .iso > .dll
+.html > .zip > .iso > .dll
+.html > .zip > .img > .dll
+.html > .zip > .iso > .dll
+.html > .zip > .iso > .vbs > .ps1 > .dll
+.html > .zip > .vhd > .dll
+.html > .zip > .vhd > .dll
+.html > .img > .dll
+.html > .zip > .img > .dll
+.html > .zip > .img > .dll
+.pdf > .zip > .img > .dll
+.pdf > .zip > .img
+.pdf > .zip > .img > .dll
+.pdf > .zip > .iso > .dll
+.one > .dll
+.one > .hta > .dll
+.one > .hta > .dll
+.one > .dll
+.one > .bat > .dll
+.one > .bat > .dll
+.one > .dll
+.one > .wsf > .dll
+.xll > .xll > .dll
+.dll
+.html > .dll
+.dll
+.html > .dll
+.html > .dll
+.html > .wsf > .dll
+.pdf > .zip > .wsf > .dll
+.pdf > .zip > .wsf > .dll
+.pdf > .zip > .wsf > .dll
+.pdf > .zip > .wsf > .dll
+.pdf > .zip > .wsf > .dll
+.pdf > .zip > .wsf > .dll
+.pdf > .zip > .wsf > .dll
+.pdf > .zip > .wsf > .dll > .dll
+.pdf > .zip > .wsf > .dll
+.pdf > .zip > .wsf > .dll
+.pdf > .zip > .wsf > .dll
+.pdf > .zip > .wsf > .dll
+.pdf > .zip > .wsf > .dll
+.pdf > .zip > .wsf > .dll
+.pdf > .zip > .wsf > .dll
+.pdf > .zip > .wsf > .dll
+.pdf > .zip > .msi > .dll
+.xls > .dll > .xls > .dll
+.one > .dll
+.one > .dll
+.xll > .dll
+.msi
+.msi
